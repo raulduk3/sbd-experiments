@@ -1,6 +1,6 @@
 # Shot Boundary Detection (SBD) 
 
-## Project goals
+### Project goals
 - explore the industrial practicality of state-of-the-art shot boundary detection (SBD) tools/methods for film and video production
 - benchmark those SBD solutions against academically studied video datsets (e.g. TRECVID)
 - create a new dataset of video segments and labeled shot boundaries across many different video types (e.g. shorts, films, music videos, presentations, animations, live performances, etc.)
