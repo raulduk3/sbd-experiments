@@ -1,4 +1,4 @@
-# SBD Experimentation 
+# Shot boundary detection (SBD) Experimentation 
 IPHS 484 Senior Seminar Project 
 Richard Álvarez
 
