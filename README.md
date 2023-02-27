@@ -18,7 +18,7 @@ Shot boundary detection (SBD) is considered a substantial process of video brows
 
 <i>(add more description and motivation)</i>
 
-### Visuals and figures
+#### Visuals and figures
 
 | Cut | Dissolve | Fade |
 |-----|----------|------|
@@ -28,7 +28,7 @@ Video Hierarchy            |  Shot Transition Types
 :-------------------------:|:-------------------------:
 ![](https://github.com/raulduk3/sbd-experiments/blob/main/figs/downloaded/fig1?raw=true//user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png)  |  ![](https://github.com/raulduk3/sbd-experiments/blob/main/figs/downloaded/fig2?raw=true)
 
-### Algorithms and tools
+#### Algorithms and tools
 
 |Algorithm / Tool                             |Type                                         |Implemented?|Trained?|Benchmarked?|Link                                                |
 |---------------------------------------------|---------------------------------------------|------------|--------|------------|----------------------------------------------------|
@@ -43,7 +43,7 @@ Video Hierarchy            |  Shot Transition Types
 |Contourlet Transform 3 level of decomposition|Algorithm                                    |            |        |            |                                                    |
 |ShotDetection                                |??? (HBA)                                    |Yes         |        |            |https://github.com/yasinyildirim/ShotDetection      |
 
-### Credits
+#### Credits
 If you find my work useful, please cite 🖤
 ```
 Richard Álvarez
