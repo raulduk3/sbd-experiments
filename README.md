@@ -1,5 +1,7 @@
 # Shot Boundary Detection (SBD) 
 
+Independent undergraduate research project conducted by Richard Álvarez at Kenyon College on Shot Boundary Detection.
+
 ### Project goals
 - explore the industrial practicality of state-of-the-art shot boundary detection (SBD) tools/methods for film and video production
 - benchmark those SBD solutions against academically studied video datsets (e.g. TRECVID)
