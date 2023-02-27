@@ -3,7 +3,7 @@
 ### Goals
 - explore the practical aplications of state-of-the-art shot boundary detection (sbd) tools in film/video production
 - benchmark a varierty of SBD solutions
-- create a dataset that covers all types of video transitions across video types (Shorts, Films, Music Videos, Presentations, Live Performances, etc.)
+- create a dataset of video segments and labeled shot boundaries across many different video types (shorts, films, music videos, presentations, animations, live performances, and more)
 
 Shot boundary detection (SBD) is considered a substantial process of video browsing and retrieval. SBD aims to detect transition and their boundaries between consecutive shots; hence, shots with rich information are used in the content-based video indexing and retrieval.
 
