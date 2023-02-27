@@ -1,13 +1,22 @@
-# Shot boundary detection (SBD) Experimentation 
-IPHS 484 Senior Seminar Project 
+# Shot boundary detection (SBD) Experimentation and Benchmarking
+### IPHS 484 Senior Seminar Project
 
-Richard Álvarez
+Goals
+- explore the practical aplications of state-of-the-art shot boundary detection (sbd) tools in film/video production
+- benchmark a varierty of SBD solutions
+- create a dataset that covers all types of video transitions in many different context (short video content, films, music videos, presentations, etc.)
 
 Shot boundary detection (SBD) is considered a substantial process of video browsing and retrieval. SBD aims to detect transition and their boundaries between consecutive shots; hence, shots with rich information are used in the content-based video indexing and retrieval.
+
+<i>(todo: add more description and motivation)</i>
+
+### Visuals and figures
 
 Video Hierarchy            |  Shot Transition Types
 :-------------------------:|:-------------------------:
 ![](https://github.com/raulduk3/sbd-experiments/blob/main/figs/downloaded/fig1?raw=true//user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png)  |  ![](https://github.com/raulduk3/sbd-experiments/blob/main/figs/downloaded/fig2?raw=true)
+
+### Algorithms and tools
 
 |Algorithm / Tool                             |Type                                         |Implemented?|Trained?|Benchmarked?|Link                                                |
 |---------------------------------------------|---------------------------------------------|------------|--------|------------|----------------------------------------------------|
