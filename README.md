@@ -44,7 +44,7 @@ Video Hierarchy            |  Shot Transition Types
 |ShotDetection                                |??? (HBA)                                    |Yes         |        |            |https://github.com/yasinyildirim/ShotDetection      |
 
 ### Credits
-Please cite 🚀
+If you find my work useful, please cite 🖤
 ```
 Richard Álvarez
 IPHS 400 Senior Seminar Spring '23 Kenyon College
