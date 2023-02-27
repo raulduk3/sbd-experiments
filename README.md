@@ -1,7 +1,6 @@
 # Shot boundary detection (SBD) Experimentation and Benchmarking
-### IPHS 484 Senior Seminar Project
 
-Goals
+### Goals
 - explore the practical aplications of state-of-the-art shot boundary detection (sbd) tools in film/video production
 - benchmark a varierty of SBD solutions
 - create a dataset that covers all types of video transitions in many different context (short video content, films, music videos, presentations, etc.)
@@ -30,3 +29,10 @@ Video Hierarchy            |  Shot Transition Types
 |SURF Histrogram                              |Algorithm                                    |            |        |            |                                                    |
 |Contourlet Transform 3 level of decomposition|Algorithm                                    |            |        |            |                                                    |
 |ShotDetection                                |??? (HBA)                                    |Yes         |        |            |https://github.com/yasinyildirim/ShotDetection      |
+
+### Credits
+If you find this repository useful please cite :)
+
+Richard Álvarez
+
+[IPHS 400 Senior Seminar Kenyon College](https://www.kenyon.edu/)
