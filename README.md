@@ -1,4 +1,4 @@
-# Industry Applications for Shot Boundary Detection (SBD)  
+# Industry-Level Application of Shot Boundary Detection (SBD)  
 
 <p align="center">
 by Richard Álvarez
