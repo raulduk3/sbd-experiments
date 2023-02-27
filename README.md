@@ -1,6 +1,8 @@
 # Industry Applications for Shot Boundary Detection (SBD)  
 
-Undergrad research project conducted by Richard Álvarez at Kenyon College
+<p align="center">
+<img src="https://www.kenyon.edu/files/resources/logotype_kenyon-purple_rgb.png" width="150" height="40">
+</p>
 
 ### Project goals
 - explore the industrial practicality of state-of-the-art shot boundary detection (SBD) tools/methods for film and video production
