@@ -1,7 +1,7 @@
 # Shot boundary detection (SBD) Experimentation and Benchmarking
 
 ### Goals
-- explore the practical aplications of state-of-the-art shot boundary detection (sbd) tools in film/video production
+- explore the industrial practicality of state-of-the-art shot boundary detection (sbd) tools/methods for film and video production
 - benchmark a varierty of SBD solutions
 - create a dataset of video segments and labeled shot boundaries across many different video types (e.g. shorts, films, music videos, presentations, animations, live performances, etc.)
 
