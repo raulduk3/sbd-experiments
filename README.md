@@ -1,9 +1,5 @@
 # Shot boundary detection (SBD) Experimentation and Benchmarking
 
-| Cut | Dissolve | Fade |
-|-----|----------|------|
-|![](https://videoprocessing.ai/assets/img/benchmarks/sbd/cut.gif)|![](https://videoprocessing.ai/assets/img/benchmarks/sbd/diss.gif)|![](https://videoprocessing.ai/assets/img/benchmarks/sbd/fade.gif)|
-
 ### Goals
 - explore the industrial practicality of state-of-the-art shot boundary detection (SBD) tools/methods for film and video production
 - benchmark those SBD solutions against academically studied video datsets (e.g. TRECVID)
@@ -14,6 +10,10 @@ Shot boundary detection (SBD) is considered a substantial process of video brows
 <i>(todo: add more description and motivation)</i>
 
 ### Visuals and figures
+
+| Cut | Dissolve | Fade |
+|-----|----------|------|
+|![](https://videoprocessing.ai/assets/img/benchmarks/sbd/cut.gif)|![](https://videoprocessing.ai/assets/img/benchmarks/sbd/diss.gif)|![](https://videoprocessing.ai/assets/img/benchmarks/sbd/fade.gif)|
 
 Video Hierarchy            |  Shot Transition Types
 :-------------------------:|:-------------------------:
