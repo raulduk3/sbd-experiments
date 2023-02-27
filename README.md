@@ -1,4 +1,4 @@
-# Exploration of Shot boundary detection (SBD) 
+# Shot Boundary Detection (SBD) 
 
 ### Project goals
 - explore the industrial practicality of state-of-the-art shot boundary detection (SBD) tools/methods for film and video production
