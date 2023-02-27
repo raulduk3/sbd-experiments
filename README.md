@@ -47,5 +47,5 @@ Video Hierarchy            |  Shot Transition Types
 If you find my work useful, please cite 🖤
 ```
 Richard Álvarez
-IPHS 400 Senior Seminar Spring '23 Kenyon College
+IPHS 484 Senior Seminar Spring '23 Kenyon College
 ```
