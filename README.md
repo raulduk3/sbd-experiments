@@ -7,13 +7,13 @@ https://docs.google.com/spreadsheets/d/1ivNdvHQ0jT1N_dcFepq0XIoG5y3MXQPpsWoq-dv9
 
 |Algorithm / Tool                             |Type                                         |Implemented?|Trained?|Benchmarked?|Link                                                |
 |---------------------------------------------|---------------------------------------------|------------|--------|------------|----------------------------------------------------|
-|SceneBoundaryDetection                       |3D CNN                                       |X           |        |            |https://github.com/abramjos/Scene-boundary-detection|
-|DeepSBD                                      |Spatio-temporal Convolutional Neural Networks|X           |        |            |https://github.com/melgharib/DSBD                   |
-|TransNet V2                                  |Neural Network                               |X           |        |            |https://github.com/soCzech/TransNetV2               |
-|Hectate                                      |Multi-tool                                   |X           |        |            |https://github.com/yahoo/hecate                     |
-|Walsh-Handamard Motion                       |Algorithm                                    |X           |        |            |https://github.com/bvssvni/fwht                     |
+|SceneBoundaryDetection                       |3D CNN                                       |Yes         |        |            |https://github.com/abramjos/Scene-boundary-detection|
+|DeepSBD                                      |Spatio-temporal Convolutional Neural Networks|Yes         |        |            |https://github.com/melgharib/DSBD                   |
+|TransNet V2                                  |Neural Network                               |Yes         |        |            |https://github.com/soCzech/TransNetV2               |
+|Hectate                                      |Multi-tool                                   |Yes         |        |            |https://github.com/yahoo/hecate                     |
+|Walsh-Handamard Motion                       |Algorithm                                    |Yes         |        |            |https://github.com/bvssvni/fwht                     |
 |Histogram Mutual Info Harris                 |Algorithm                                    |            |        |            |                                                    |
 |Histogram SIFT                               |Algorithm                                    |            |        |            |                                                    |
 |SURF Histrogram                              |Algorithm                                    |            |        |            |                                                    |
 |Contourlet Transform 3 level of decomposition|Algorithm                                    |            |        |            |                                                    |
-|ShotDetection                                |??? (HBA)                                    |X           |        |            |https://github.com/yasinyildirim/ShotDetection      |
+|ShotDetection                                |??? (HBA)                                    |Yes         |        |            |https://github.com/yasinyildirim/ShotDetection      |
