@@ -2,7 +2,7 @@
 
 <p align="center">
 <img src="https://www.kenyon.edu/files/resources/logotype_kenyon-purple_rgb.png" width="150" height="40"><br />
-<i><a href="raulduke.com">Richard Álvarez</a></i>
+by Richard Álvarez
 </p>
 
 ### Project goals
