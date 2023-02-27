@@ -5,7 +5,7 @@
 - benchmark those SBD solutions against academically studied video datsets (e.g. TRECVID)
 - create a new dataset of video segments and labeled shot boundaries across many different video types (e.g. shorts, films, music videos, presentations, animations, live performances, etc.)
 
-Shot boundary detection (SBD) is considered a substantial process of video browsing and retrieval. SBD aims to detect transition and their boundaries between consecutive shots; hence, shots with rich information are used in the content-based video indexing and retrieval.
+Shot boundary detection (SBD) is considered a substantial process of video browsing and retrieval. SBD aims to detect transitions and their boundaries between consecutive shots; hence, shots with rich information are used in the content-based video indexing and retrieval.
 
 <i>(todo: add more description and motivation)</i>
 
