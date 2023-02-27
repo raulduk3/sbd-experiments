@@ -1,4 +1,4 @@
-# Industry Application for Shot Boundary Detection (SBD)  
+# Industry Applications for Shot Boundary Detection (SBD)  
 
 Undergrad research project conducted by Richard Álvarez at Kenyon College
 
