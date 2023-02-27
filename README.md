@@ -1,16 +1,20 @@
 # Industry Applications for Shot Boundary Detection (SBD)  
 
 <p align="center">
-<img src="https://www.kenyon.edu/files/resources/logotype_kenyon-purple_rgb.png" width="150" height="40"><br />
 by Richard Álvarez
 </p>
 
-### Project goals
+<p align="center">
+<img src="https://www.kenyon.edu/files/resources/logotype_kenyon-purple_rgb.png" width="150" height="40">
+</p>
+
+Shot boundary detection (SBD) is considered a substantial process of video browsing and retrieval. SBD aims to detect transitions and their boundaries between consecutive shots; hence, shots with rich information are used in the content-based video indexing and retrieval.
+
+
+#### Project goals
 - explore the industrial practicality of state-of-the-art shot boundary detection (SBD) tools/methods for film and video production
 - benchmark those SBD solutions against academically studied video datsets (e.g. TRECVID)
 - create a new dataset of video segments and labeled shot boundaries across many different video types (e.g. shorts, films, music videos, presentations, animations, live performances, etc.)
-
-Shot boundary detection (SBD) is considered a substantial process of video browsing and retrieval. SBD aims to detect transitions and their boundaries between consecutive shots; hence, shots with rich information are used in the content-based video indexing and retrieval.
 
 <i>(add more description and motivation)</i>
 
