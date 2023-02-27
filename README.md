@@ -8,8 +8,6 @@ Video Hierarchy            |  Shot Transition Types
 :-------------------------:|:-------------------------:
 ![](https://github.com/raulduk3/sbd-experiments/blob/main/figs/downloaded/fig1?raw=true//user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png)  |  ![](https://github.com/raulduk3/sbd-experiments/blob/main/figs/downloaded/fig2?raw=true)
 
-https://docs.google.com/spreadsheets/d/1ivNdvHQ0jT1N_dcFepq0XIoG5y3MXQPpsWoq-dv9Rok/edit#gid=0
-
 |Algorithm / Tool                             |Type                                         |Implemented?|Trained?|Benchmarked?|Link                                                |
 |---------------------------------------------|---------------------------------------------|------------|--------|------------|----------------------------------------------------|
 |SceneBoundaryDetection                       |3D CNN                                       |Yes         |        |            |https://github.com/abramjos/Scene-boundary-detection|
